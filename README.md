@@ -20,7 +20,7 @@
     <img src="images/logo.png" alt="Logo" width="100" height="80">
   </a>
 
-<h3 align="center">DBAC Companion App</h3>
+<h3 align="center">GeoLens</h3>
 
   <p align="center">
     Your mobile application for everything DBAC. Pulse, Sports, Classes, and more.
